@@ -6,4 +6,6 @@ however classes are used to make it slightly more "modular"
 Could not figure out joystick support, the triggers count as axes? 
 will get it done by the next rendition or just in a new project altogether
 
-Sprite and texture concepts were used but in a very introductory manner, still need to figure out animation and scrolling levels [16-09-2024]
+Sprite and texture concepts were used but in a very introductory manner, still need to figure out animation and scrolling levels 
+
+Did not bother with audio as it was a relatively easy feature to implement so I put it off for upcoming projects while focusing on texture and spritework [16-09-2024]
